@@ -67,7 +67,7 @@ This script is optimized for large GIFs, processing them in memory-efficient chu
 
 ## Requirements
 
-- **Python 3.x**
+- **Python 3.7**
 - **Pillow** (`pip install pillow`)
 - **FFmpeg** (for combining chunks in `asciiGifLimitMem.py`)
 
